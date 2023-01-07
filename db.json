@@ -25,6 +25,58 @@
           "QR_code": "esda2dd7af4f62feasdds26fe6786fasdasd"
         }
       ],
+      "members": [
+        {
+          "id": 1,
+          "email": "user1@blockapps.net",
+          "date_add": "2022-01-09 12:47:53",
+          "permission": "owner"
+        },
+        {
+          "id": 2,
+          "email": "user2@blockapps.net",
+          "date_add": "2022-01-09 12:47:53",
+          "permission": "member"
+        },
+        {
+          "id": 3,
+          "email": "user3@blockapps.net",
+          "date_add": "2022-01-09 12:47:53",
+          "permission": "member"
+        },
+        {
+          "id": 4,
+          "email": "user4@blockapps.net",
+          "date_add": "2022-01-09 12:47:53",
+          "permission": "member"
+        }
+      ],
+      "audit_log": [
+        {
+          "id": 1,
+          "is_upload_version": true,
+          "version_upload": 1,
+          "activity": "upload version",
+          "date_activity": "2022-01-09 12:47:53",
+          "auther": "user1@blockapps.net"
+        },
+        {
+          "id": 2,
+          "is_upload_version": true,
+          "version_upload": 2,
+          "activity": "upload version",
+          "date_activity": "2022-01-09 12:47:53",
+          "auther": "user1@blockapps.net"
+        },
+        {
+          "id": 3,
+          "is_upload_version": false,
+          "version_upload": null,
+          "activity": "add member",
+          "date_activity": "2022-01-09 12:47:53",
+          "auther": "user1@blockapps.net"
+        }
+      ],
       "description": "Maecenas dignissim mi efficitur leo laoreet rutrum. Pellentesque consequat sed mauris non placerat. Sed id egestas justo. Morbi lacinia ex vitae dui vestibulum varius."
     },
 
@@ -67,6 +119,24 @@
           "permission": "member"
         }
       ],
+      "audit_log": [
+        {
+          "id": 1,
+          "is_upload_version": true,
+          "version_upload": 1,
+          "activity": "upload version",
+          "date_activity": "2022-01-09 12:47:53",
+          "auther": "user1@blockapps.net"
+        },
+        {
+          "id": 2,
+          "is_upload_version": true,
+          "version_upload": 2,
+          "activity": "upload version",
+          "date_activity": "2022-01-09 12:47:53",
+          "auther": "user1@blockapps.net"
+        }
+      ],
       "description": "Maecenas dignissim mi efficitur leo laoreet rutrum. Sed id egestas justo. Morbi lacinia ex vitae dui vestibulum varius."
     }
   ],
@@ -82,6 +152,10 @@
     {
       "id": 3,
       "email": "user3@blockapps.net"
+    },
+    {
+      "id": 4,
+      "email": "user4@blockapps.net"
     }
   ]
 }
