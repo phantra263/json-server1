@@ -79,10 +79,361 @@
       ],
       "description": "Maecenas dignissim mi efficitur leo laoreet rutrum. Pellentesque consequat sed mauris non placerat. Sed id egestas justo. Morbi lacinia ex vitae dui vestibulum varius."
     },
-
     {
       "id": "c1bcca6c-b3a3-4688-b7bf-5179bc5d3500",
       "file_name": "test_88sdd6.txt",
+      "count_version": 2,
+      "owner": "user1@blockapps.net",
+      "date_updated": "2022-01-02 02:47:53",
+      "last_activity" : "2022-01-09 12:47:53",
+      "list_version": [
+        {
+          "id": "0598f901-811b-4328-afcc-10b17e103cb6",
+          "version": 1,
+          "upload_by": "user1@blockapps.net",
+          "date_upload": "2022-01-09 12:47:53",
+          "img_QR_code": "https://picsum.photos/98",
+          "QR_code": "e862dd7af4f62fe6d31a196fe6786fasdasd"
+        },
+        {
+          "id": "adcb49e9-fe0e-49a2-9616-8b0b02187736",
+          "version": 2,
+          "upload_by": "user12@blockapps.net",
+          "date_upload": "2022-01-09 11:47:53",
+          "img_QR_code": "https://picsum.photos/98",
+          "QR_code": "esda2dd7af4f62feasdds26fe6786fasdasd"
+        }
+      ],
+      "members": [
+        {
+          "id": 1,
+          "email": "user1@blockapps.net",
+          "date_add": "2022-01-09 12:47:53",
+          "permission": "owner"
+        },
+        {
+          "id": 2,
+          "email": "user12@blockapps.net",
+          "date_add": "2022-01-09 12:47:53",
+          "permission": "member"
+        }
+      ],
+      "audit_log": [
+        {
+          "id": 1,
+          "is_upload_version": true,
+          "version_upload": 1,
+          "activity": "upload version",
+          "date_activity": "2022-01-09 12:47:53",
+          "auther": "user1@blockapps.net"
+        },
+        {
+          "id": 2,
+          "is_upload_version": true,
+          "version_upload": 2,
+          "activity": "upload version",
+          "date_activity": "2022-01-09 12:47:53",
+          "auther": "user1@blockapps.net"
+        }
+      ],
+      "description": "Maecenas dignissim mi efficitur leo laoreet rutrum. Sed id egestas justo. Morbi lacinia ex vitae dui vestibulum varius."
+    },
+    {
+      "id": "551bd074-a708-4ae7-aa9e-a118278ed5d0",
+      "file_name": "test_88sdd6.txt",
+      "count_version": 2,
+      "owner": "user1@blockapps.net",
+      "date_updated": "2022-01-02 02:47:53",
+      "last_activity" : "2022-01-09 12:47:53",
+      "list_version": [
+        {
+          "id": "0598f901-811b-4328-afcc-10b17e103cb6",
+          "version": 1,
+          "upload_by": "user1@blockapps.net",
+          "date_upload": "2022-01-09 12:47:53",
+          "img_QR_code": "https://picsum.photos/98",
+          "QR_code": "e862dd7af4f62fe6d31a196fe6786fasdasd"
+        }
+      ],
+      "members": [
+        {
+          "id": 1,
+          "email": "user1@blockapps.net",
+          "date_add": "2022-01-09 12:47:53",
+          "permission": "owner"
+        },
+        {
+          "id": 2,
+          "email": "user12@blockapps.net",
+          "date_add": "2022-01-09 12:47:53",
+          "permission": "member"
+        },
+        {
+          "id": 3,
+          "email": "user3@blockapps.net",
+          "date_add": "2022-01-09 12:47:53",
+          "permission": "member"
+        }
+      ],
+      "audit_log": [
+        {
+          "id": 1,
+          "is_upload_version": true,
+          "version_upload": 1,
+          "activity": "upload version",
+          "date_activity": "2022-01-09 12:47:53",
+          "auther": "user1@blockapps.net"
+        },
+        {
+          "id": 2,
+          "is_upload_version": true,
+          "version_upload": 2,
+          "activity": "upload version",
+          "date_activity": "2022-01-09 12:47:53",
+          "auther": "user1@blockapps.net"
+        }
+      ],
+      "description": "Maecenas dignissim mi efficitur leo laoreet rutrum. Sed id egestas justo. Morbi lacinia ex vitae dui vestibulum varius."
+    },
+    {
+      "id": "17194656-56fa-4588-9082-1f92dab51a30",
+      "file_name": "file_88sdd6.txt",
+      "count_version": 2,
+      "owner": "user5@blockapps.net",
+      "date_updated": "2022-01-02 02:47:53",
+      "last_activity" : "2022-01-09 12:47:53",
+      "list_version": [
+        {
+          "id": "0598f901-811b-4328-afcc-10b17e103cb6",
+          "version": 1,
+          "upload_by": "user1@blockapps.net",
+          "date_upload": "2022-01-09 12:47:53",
+          "img_QR_code": "https://picsum.photos/98",
+          "QR_code": "e862dd7af4f62fe6d31a196fe6786fasdasd"
+        },
+        {
+          "id": "adcb49e9-fe0e-49a2-9616-8b0b02187736",
+          "version": 2,
+          "upload_by": "user12@blockapps.net",
+          "date_upload": "2022-01-09 11:47:53",
+          "img_QR_code": "https://picsum.photos/98",
+          "QR_code": "esda2dd7af4f62feasdds26fe6786fasdasd"
+        }
+      ],
+      "members": [
+        {
+          "id": 1,
+          "email": "user1@blockapps.net",
+          "date_add": "2022-01-09 12:47:53",
+          "permission": "owner"
+        },
+        {
+          "id": 2,
+          "email": "user12@blockapps.net",
+          "date_add": "2022-01-09 12:47:53",
+          "permission": "member"
+        }
+      ],
+      "audit_log": [
+        {
+          "id": 1,
+          "is_upload_version": true,
+          "version_upload": 1,
+          "activity": "upload version",
+          "date_activity": "2022-01-09 12:47:53",
+          "auther": "user1@blockapps.net"
+        },
+        {
+          "id": 2,
+          "is_upload_version": true,
+          "version_upload": 2,
+          "activity": "upload version",
+          "date_activity": "2022-01-09 12:47:53",
+          "auther": "user1@blockapps.net"
+        }
+      ],
+      "description": "Maecenas dignissim mi efficitur leo laoreet rutrum. Sed id egestas justo. Morbi lacinia ex vitae dui vestibulum varius."
+    },
+    {
+      "id": "718a6df8-89a3-4f6d-b315-b42fd17ea2ae",
+      "file_name": "dir_88sdd6.txt",
+      "count_version": 2,
+      "owner": "user3@blockapps.net",
+      "date_updated": "2022-01-02 02:47:53",
+      "last_activity" : "2022-01-09 12:47:53",
+      "list_version": [
+        {
+          "id": "0598f901-811b-4328-afcc-10b17e103cb6",
+          "version": 1,
+          "upload_by": "user1@blockapps.net",
+          "date_upload": "2022-01-09 12:47:53",
+          "img_QR_code": "https://picsum.photos/98",
+          "QR_code": "e862dd7af4f62fe6d31a196fe6786fasdasd"
+        },
+        {
+          "id": "adcb49e9-fe0e-49a2-9616-8b0b02187736",
+          "version": 2,
+          "upload_by": "user12@blockapps.net",
+          "date_upload": "2022-01-09 11:47:53",
+          "img_QR_code": "https://picsum.photos/98",
+          "QR_code": "esda2dd7af4f62feasdds26fe6786fasdasd"
+        }
+      ],
+      "members": [
+        {
+          "id": 1,
+          "email": "user1@blockapps.net",
+          "date_add": "2022-01-09 12:47:53",
+          "permission": "owner"
+        },
+        {
+          "id": 2,
+          "email": "user12@blockapps.net",
+          "date_add": "2022-01-09 12:47:53",
+          "permission": "member"
+        }
+      ],
+      "audit_log": [
+        {
+          "id": 1,
+          "is_upload_version": true,
+          "version_upload": 1,
+          "activity": "upload version",
+          "date_activity": "2022-01-09 12:47:53",
+          "auther": "user1@blockapps.net"
+        },
+        {
+          "id": 2,
+          "is_upload_version": true,
+          "version_upload": 2,
+          "activity": "upload version",
+          "date_activity": "2022-01-09 12:47:53",
+          "auther": "user1@blockapps.net"
+        }
+      ],
+      "description": "Maecenas dignissim mi efficitur leo laoreet rutrum. Sed id egestas justo. Morbi lacinia ex vitae dui vestibulum varius."
+    },
+    {
+      "id": "977fdf02-650a-421b-859b-b7310af3d62e",
+      "file_name": "file.txt",
+      "count_version": 2,
+      "owner": "user1@blockapps.net",
+      "date_updated": "2022-01-02 02:47:53",
+      "last_activity" : "2022-01-09 12:47:53",
+      "list_version": [
+        {
+          "id": "0598f901-811b-4328-afcc-10b17e103cb6",
+          "version": 1,
+          "upload_by": "user1@blockapps.net",
+          "date_upload": "2022-01-09 12:47:53",
+          "img_QR_code": "https://picsum.photos/98",
+          "QR_code": "e862dd7af4f62fe6d31a196fe6786fasdasd"
+        },
+        {
+          "id": "adcb49e9-fe0e-49a2-9616-8b0b02187736",
+          "version": 2,
+          "upload_by": "user12@blockapps.net",
+          "date_upload": "2022-01-09 11:47:53",
+          "img_QR_code": "https://picsum.photos/98",
+          "QR_code": "esda2dd7af4f62feasdds26fe6786fasdasd"
+        }
+      ],
+      "members": [
+        {
+          "id": 1,
+          "email": "user1@blockapps.net",
+          "date_add": "2022-01-09 12:47:53",
+          "permission": "owner"
+        },
+        {
+          "id": 2,
+          "email": "user12@blockapps.net",
+          "date_add": "2022-01-09 12:47:53",
+          "permission": "member"
+        }
+      ],
+      "audit_log": [
+        {
+          "id": 1,
+          "is_upload_version": true,
+          "version_upload": 1,
+          "activity": "upload version",
+          "date_activity": "2022-01-09 12:47:53",
+          "auther": "user1@blockapps.net"
+        },
+        {
+          "id": 2,
+          "is_upload_version": true,
+          "version_upload": 2,
+          "activity": "upload version",
+          "date_activity": "2022-01-09 12:47:53",
+          "auther": "user1@blockapps.net"
+        }
+      ],
+      "description": "Maecenas dignissim mi efficitur leo laoreet rutrum. Sed id egestas justo. Morbi lacinia ex vitae dui vestibulum varius."
+    },
+    {
+      "id": "7d74d909-dd65-413b-a989-c6d162d9fca7",
+      "file_name": "test_88sdd6.txt",
+      "count_version": 2,
+      "owner": "user1@blockapps.net",
+      "date_updated": "2022-01-02 02:47:53",
+      "last_activity" : "2022-01-09 12:47:53",
+      "list_version": [
+        {
+          "id": "0598f901-811b-4328-afcc-10b17e103cb6",
+          "version": 1,
+          "upload_by": "user1@blockapps.net",
+          "date_upload": "2022-01-09 12:47:53",
+          "img_QR_code": "https://picsum.photos/98",
+          "QR_code": "e862dd7af4f62fe6d31a196fe6786fasdasd"
+        },
+        {
+          "id": "adcb49e9-fe0e-49a2-9616-8b0b02187736",
+          "version": 2,
+          "upload_by": "user12@blockapps.net",
+          "date_upload": "2022-01-09 11:47:53",
+          "img_QR_code": "https://picsum.photos/98",
+          "QR_code": "esda2dd7af4f62feasdds26fe6786fasdasd"
+        }
+      ],
+      "members": [
+        {
+          "id": 1,
+          "email": "user1@blockapps.net",
+          "date_add": "2022-01-09 12:47:53",
+          "permission": "owner"
+        },
+        {
+          "id": 2,
+          "email": "user12@blockapps.net",
+          "date_add": "2022-01-09 12:47:53",
+          "permission": "member"
+        }
+      ],
+      "audit_log": [
+        {
+          "id": 1,
+          "is_upload_version": true,
+          "version_upload": 1,
+          "activity": "upload version",
+          "date_activity": "2022-01-09 12:47:53",
+          "auther": "user1@blockapps.net"
+        },
+        {
+          "id": 2,
+          "is_upload_version": true,
+          "version_upload": 2,
+          "activity": "upload version",
+          "date_activity": "2022-01-09 12:47:53",
+          "auther": "user1@blockapps.net"
+        }
+      ],
+      "description": "Maecenas dignissim mi efficitur leo laoreet rutrum. Sed id egestas justo. Morbi lacinia ex vitae dui vestibulum varius."
+    },
+    {
+      "id": "d66348fa-a21a-47c8-b06c-2dead58cf84b",
+      "file_name": "mk1.txt",
       "count_version": 2,
       "owner": "user1@blockapps.net",
       "date_updated": "2022-01-02 02:47:53",
