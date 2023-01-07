@@ -494,18 +494,22 @@
   "list_member": [
     {
       "id": 1,
+      "permission": "owner",
       "email": "user1@blockapps.net"
     },
     {
       "id": 2,
+      "permission": "viewer",
       "email": "user2@blockapps.net"
     },
     {
       "id": 3,
+      "permission": "viewer",
       "email": "user3@blockapps.net"
     },
     {
       "id": 4,
+      "permission": "viewer",
       "email": "user4@blockapps.net"
     }
   ]
