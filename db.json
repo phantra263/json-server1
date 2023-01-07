@@ -1,627 +1,87 @@
 {
-  "categories": [
+  "list-file" : [
     {
-      "display": "Áo thun",
-      "categorySlug": "ao-thun"
-    },
-    {
-      "display": "Áo somi",
-      "categorySlug": "ao-somi"
-    },
-    {
-      "display": "Quần jean",
-      "categorySlug": "quan-jean"
-    },
-    {
-      "display": "Áo Hoodie",
-      "categorySlug": "ao-hoodie"
-    }
-  ],
-  "products": [
-    {
-      "id": 1,
-      "Title": "Áo Thun Cổ Tròn Tối Giản Ver8 ujpdate12",
-      "Price": "155,000",
-      "Colors": [
-        "Đen"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "mồ hôi vào mùa hè. Bên cạnh đó, sản phẩm cũng chưa 5% spandex - loại sợi giúp co giãn, đàn hồi hiệu quả thích hợp mặc tới nhiều môi trường, ngay cả khi vận động <br><br><br> Sự hiện diện của những chiếc áo thun basic cổ tròn trong tủ đồ của bạn chính là chìa khóa giúp cho bạn có thêm nhiều outfit thú vị mà lại không cần đến quá nhiều món đồ. Áo thun nữ cotton cổ tròn basic chính là vũ khí tiện dụng cho các chị em trong trang phục hàng ngày!<br><br><br>Thiết kế đơn giản, form dáng tiện lợi của áo thun PPN4502. Tại sao chỉ với 1 chiếc áo thun nữ basic mà bạn có thể phối với 10 bộ độ khác nhau? Câu trả lời nằm ở chính sự đơn giản của chúng. Càng đơn giản, bạn lại càng dễ mix & match với những món đồ khác nhau.Áo thun nữ PPM4502 có thiế",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-on-gian-y-nguyen-ban-ver8-0020332/47916c25-4afc-d400-1b2e-00189666d012.jpg?w=540&h=756",
-      "categorySlug": "ao-thun",
-      "productSlug": "ao-thun-co-tron-on-gian-y-nguyen-ban-ver8-0020332"
-    },
-    {
-      "id": 2,
-      "Title": "Áo Thun 3 Lỗ Thể Thao Y Nguyên Bản Ver37",
-      "Price": "99,000",
-      "Colors": [
-        "Đen"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "Áo Thun 3 Lỗ Thể Thao Y Nguyên Bản Ver37 Chất liệu: Vải cá sấu PolyThành phần: 100% polyester + Họa tiết may đắp",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/ao-thun-3-lo-the-thao-y-nguyen-ban-ver37-0020638/d23bfc84-246d-5800-5dbe-0018cd6bc6dc.jpg?w=540&h=756",
-      "categorySlug": "ao-thun",
-      "productSlug": "ao-thun-3-lo-the-thao-y-nguyen-ban-ver37"
-    },
-    {
-      "id": 3,
-      "Title": "Áo Thun Cổ Tròn Thiên Nhiên Kì Vĩ Cyberpunk M3",
-      "Price": "385,000",
-      "Colors": [
-        "Trắng Xanh"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "Áo Thun 3 Lỗ Thể Thao Y Nguyên Bản Ver37 </br> Chất liệu: Vải cá sấu Poly </br>Thành phần: 100% polyester + Họa tiết may đắp",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-12vahdt-ai-hanh-kha-ver3-0020536/0a7bd5bb-4bdc-3901-e25a-0018ac685f34.jpg?w=540&h=756",
-      "categorySlug": "ao-thun",
-      "productSlug": "ao-thun-co-tron-thien-nhien-ki-vi-cyberpunk-m3"
-    },
-    {
-      "id": 4,
-      "Title": "Áo Thun Cổ Tròn 12VAHDT Đại Hành Khả Ver3",
-      "Price": "385,000",
-      "Colors": [
-        "Trắng Xanh"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "Áo Thun 3 Lỗ Thể Thao Y Nguyên Bản Ver37 </br> Chất liệu: Vải cá sấu Poly </br>Thành phần: 100% polyester + Họa tiết may đắp",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/so-mi-co-danton-than-co-ai-khepri-ver1-0020626/dda4f1d6-f780-0100-66d8-0018d4771ac9.jpg?w=540&h=756",
-      "categorySlug": "ao-thun",
-      "productSlug": "ao-thun-co-tron-12vahdt-dai-hanh-kha-ver3"
-    },
-    {
-      "id": 5,
-      "Title": "Áo Thun Cổ Tròn Tối Giản Ver8",
-      "Price": "155,000",
-      "Colors": [
-        "Đen"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "Sự hiện diện của những chiếc áo thun basic cổ tròn trong tủ đồ của bạn chính là chìa khóa giúp cho bạn có thêm nhiều outfit thú vị mà lại không cần đến quá nhiều món đồ. Áo thun nữ cotton cổ tròn basic chính là vũ khí tiện dụng cho các chị em trong trang phục hàng ngày!<br><br><br>Thiết kế đơn giản, form dáng tiện lợi của áo thun PPN4502. Tại sao chỉ với 1 chiếc áo thun nữ basic mà bạn có thể phối với 10 bộ độ khác nhau? Câu trả lời nằm ở chính sự đơn giản của chúng. Càng đơn giản, bạn lại càng dễ mix & match với những món đồ khác nhau.Áo thun nữ PPM4502 có thiết kế cổ tròn đơn giản, nhẹ nhàng tôn da. Tay cáo, form áo cũng không hề cầu kỳ, rất dễ mặc với nhiều thân hình khác nhau. Đặc biệt hơn, màu sắc của chiếc áo phông nữ cổ tròn này cũng rất nhã nhặn, trung tính, trơn màu. Sự tối giản từ thiết kế, đường may đến bảng màu giúp các chị em không cần đắn đo quá nhiều khi lựa chọn. Chất liệu cotton 95% được xử lý nghiêm ngặt, quy trình và công nghệ hiện đại nên mang tới cho chiếc áo sự thoải mái, mềm mại, thoáng mát ngay khi chạm vào. Cùng với đó, áo thun nữ cotton cổ tròn Yody có khả năng thâm shuts mồ hôi rất tốt nên người mặc không bị cảm giác bí bách, dính dính trên da khi đổ mồ hôi vào mùa hè. Bên cạnh đó, sản phẩm cũng chưa 5% spandex - loại sợi giúp co giãn, đàn hồi hiệu quả thích hợp mặc tới nhiều môi trường, ngay cả khi vận động <br><br><br> Sự hiện diện của những chiếc áo thun basic cổ tròn trong tủ đồ của bạn chính là chìa khóa giúp cho bạn có thêm nhiều outfit thú vị mà lại không cần đến quá nhiều món đồ. Áo thun nữ cotton cổ tròn basic chính là vũ khí tiện dụng cho các chị em trong trang phục hàng ngày!<br><br><br>Thiết kế đơn giản, form dáng tiện lợi của áo thun PPN4502. Tại sao chỉ với 1 chiếc áo thun nữ basic mà bạn có thể phối với 10 bộ độ khác nhau? Câu trả lời nằm ở chính sự đơn giản của chúng. Càng đơn giản, bạn lại càng dễ mix & match với những món đồ khác nhau.Áo thun nữ PPM4502 có thiết kế cổ tròn đơn giản, nhẹ nhàng tôn da. Tay cáo, form áo cũng không hề cầu kỳ, rất dễ mặc với nhiều thân hình khác nhau. Đặc biệt hơn, màu sắc của chiếc áo phông nữ cổ tròn này cũng rất nhã nhặn, trung tính, trơn màu. Sự tối giản từ thiết kế, đường may đến bảng màu giúp các chị em không cần đắn đo quá nhiều khi lựa chọn. Chất liệu cotton 95% được xử lý nghiêm ngặt, quy trình và công nghệ hiện đại nên mang tới cho chiếc áo sự thoải mái, mềm mại, thoáng mát ngay khi chạm vào. Cùng với đó, áo thun nữ cotton cổ tròn Yody có khả năng thâm shuts mồ hôi rất tốt nên người mặc không bị cảm giác bí bách, dính dính trên da khi đổ mồ hôi vào mùa hè. Bên cạnh đó, sản phẩm cũng chưa 5% spandex - loại sợi giúp co giãn, đàn hồi hiệu quả thích hợp mặc tới nhiều môi trường, ngay cả khi vận động",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-on-gian-y-nguyen-ban-ver8-0020332/47916c25-4afc-d400-1b2e-00189666d012.jpg?w=540&h=756",
-      "categorySlug": "ao-thun",
-      "productSlug": "ao-thun-co-tron-on-gian-y-nguyen-ban-ver8-0020332"
-    },
-    {
-      "id": 6,
-      "Title": "Áo Thun Cổ Tròn Tối Giản M5",
-      "Price": "185,000",
-      "Colors": [
-        "Đen"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "Chất liệu: Cotton 2 chiều Thành phần: 100% Cotton - Co dãn 2 chiều - Thấm hút mồ hôi tốt mang lại cảm giác thoáng mát ",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/ao-thun-tn-tc-solid-m7-0019915/da722461-2d2a-1800-7d33-00181b23eacd.jpg?w=540&h=756",
-      "categorySlug": "ao-thun",
-      "productSlug": "ao-thun-tn-tc-solid-m7-0019915"
-    },
-    {
-      "id": 7,
-      "Title": "Áo Thun Cổ Tròn Tối Giản Ver8",
-      "Price": "155,000",
-      "Colors": [
-        "Trắng"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "Sự hiện diện của những chiếc áo thun basic cổ tròn trong tủ đồ của bạn chính là chìa khóa giúp cho bạn có thêm nhiều outfit thú vị mà lại không cần đến quá nhiều món đồ. Áo thun nữ cotton cổ tròn basic chính là vũ khí tiện dụng cho các chị em trong trang phục hàng ngày!<br><br><br>Thiết kế đơn giản, form dáng tiện lợi của áo thun PPN4502. Tại sao chỉ với 1 chiếc áo thun nữ basic mà bạn có thể phối với 10 bộ độ khác nhau? Câu trả lời nằm ở chính sự đơn giản của chúng. Càng đơn giản, bạn lại càng dễ mix & match với những món đồ khác nhau.Áo thun nữ PPM4502 có thiết kế cổ tròn đơn giản, nhẹ nhàng tôn da. Tay cáo, form áo cũng không hề cầu kỳ, rất dễ mặc với nhiều thân hình khác nhau. Đặc biệt hơn, màu sắc của chiếc áo phông nữ cổ tròn này cũng rất nhã nhặn, trung tính, trơn màu. Sự tối giản từ thiết kế, đường may đến bảng màu giúp các chị em không cần đắn đo quá nhiều khi lựa chọn. Chất liệu cotton 95% được xử lý nghiêm ngặt, quy trình và công nghệ hiện đại nên mang tới cho chiếc áo sự thoải mái, mềm mại, thoáng mát ngay khi chạm vào. Cùng với đó, áo thun nữ cotton cổ tròn Yody có khả năng thâm shuts mồ hôi rất tốt nên người mặc không bị cảm giác bí bách, dính dính trên da khi đổ mồ hôi vào mùa hè. Bên cạnh đó, sản phẩm cũng chưa 5% spandex - loại sợi giúp co giãn, đàn hồi hiệu quả thích hợp mặc tới nhiều môi trường, ngay cả khi vận động <br><br><br> Sự hiện diện của những chiếc áo thun basic cổ tròn trong tủ đồ của bạn chính là chìa khóa giúp cho bạn có thêm nhiều outfit thú vị mà lại không cần đến quá nhiều món đồ. Áo thun nữ cotton cổ tròn basic chính là vũ khí tiện dụng cho các chị em trong trang phục hàng ngày!<br><br><br>Thiết kế đơn giản, form dáng tiện lợi của áo thun PPN4502. Tại sao chỉ với 1 chiếc áo thun nữ basic mà bạn có thể phối với 10 bộ độ khác nhau? Câu trả lời nằm ở chính sự đơn giản của chúng. Càng đơn giản, bạn lại càng dễ mix & match với những món đồ khác nhau.Áo thun nữ PPM4502 có thiết kế cổ tròn đơn giản, nhẹ nhàng tôn da. Tay cáo, form áo cũng không hề cầu kỳ, rất dễ mặc với nhiều thân hình khác nhau. Đặc biệt hơn, màu sắc của chiếc áo phông nữ cổ tròn này cũng rất nhã nhặn, trung tính, trơn màu. Sự tối giản từ thiết kế, đường may đến bảng màu giúp các chị em không cần đắn đo quá nhiều khi lựa chọn. Chất liệu cotton 95% được xử lý nghiêm ngặt, quy trình và công nghệ hiện đại nên mang tới cho chiếc áo sự thoải mái, mềm mại, thoáng mát ngay khi chạm vào. Cùng với đó, áo thun nữ cotton cổ tròn Yody có khả năng thâm shuts mồ hôi rất tốt nên người mặc không bị cảm giác bí bách, dính dính trên da khi đổ mồ hôi vào mùa hè. Bên cạnh đó, sản phẩm cũng chưa 5% spandex - loại sợi giúp co giãn, đàn hồi hiệu quả thích hợp mặc tới nhiều môi trường, ngay cả khi vận động",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-on-gian-y-nguyen-ban-ver8-0020335/d1468b61-53a4-fa00-094c-001896681a3f.jpg?w=540&h=756",
-      "categorySlug": "ao-thun",
-      "productSlug": "ao-thun-co-tron-toi-gian-v8"
-    },
-    {
-      "id": 8,
-      "Title": "Áo Thun Cổ Tròn Y Nguyên Bản 18- Ver31",
-      "Price": "255,000",
-      "Colors": [
-        "Xám"
-      ],
-      "Sizes": [
-        "S",
-        "M"
-      ],
-      "Description": "Sự hiện diện của những chiếc áo thun basic cổ tròn trong tủ đồ của bạn chính là chìa khóa giúp cho bạn có thêm nhiều outfit thú vị mà lại không cần đến quá nhiều món đồ. Áo thun nữ cotton cổ tròn basic chính là vũ khí tiện dụng cho các chị em trong trang phục hàng ngày!<br><br><br>Thiết kế đơn giản, form dáng tiện lợi của áo thun PPN4502. Tại sao chỉ với 1 chiếc áo thun nữ basic mà bạn có thể phối với 10 bộ độ khác nhau? Câu trả lời nằm ở chính sự đơn giản của chúng. Càng đơn giản, bạn lại càng dễ mix & match với những món đồ khác nhau.Áo thun nữ PPM4502 có thiết kế cổ tròn đơn giản, nhẹ nhàng tôn da. Tay cáo, form áo cũng không hề cầu kỳ, rất dễ mặc với nhiều thân hình khác nhau. Đặc biệt hơn, màu sắc của chiếc áo phông nữ cổ tròn này cũng rất nhã nhặn, trung tính, trơn màu. Sự tối giản từ thiết kế, đường may đến bảng màu giúp các chị em không cần đắn đo quá nhiều khi lựa chọn. Chất liệu cotton 95% được xử lý nghiêm ngặt, quy trình và công nghệ hiện đại nên mang tới cho chiếc áo sự thoải mái, mềm mại, thoáng mát ngay khi chạm vào. Cùng với đó, áo thun nữ cotton cổ tròn Yody có khả năng thâm shuts mồ hôi rất tốt nên người mặc không bị cảm giác bí bách, dính dính trên da khi đổ mồ hôi vào mùa hè. Bên cạnh đó, sản phẩm cũng chưa 5% spandex - loại sợi giúp co giãn, đàn hồi hiệu quả thích hợp mặc tới nhiều môi trường, ngay cả khi vận động <br><br><br> Sự hiện diện của những chiếc áo thun basic cổ tròn trong tủ đồ của bạn chính là chìa khóa giúp cho bạn có thêm nhiều outfit thú vị mà lại không cần đến quá nhiều món đồ. Áo thun nữ cotton cổ tròn basic chính là vũ khí tiện dụng cho các chị em trong trang phục hàng ngày!<br><br><br>Thiết kế đơn giản, form dáng tiện lợi của áo thun PPN4502. Tại sao chỉ với 1 chiếc áo thun nữ basic mà bạn có thể phối với 10 bộ độ khác nhau? Câu trả lời nằm ở chính sự đơn giản của chúng. Càng đơn giản, bạn lại càng dễ mix & match với những món đồ khác nhau.Áo thun nữ PPM4502 có thiết kế cổ tròn đơn giản, nhẹ nhàng tôn da. Tay cáo, form áo cũng không hề cầu kỳ, rất dễ mặc với nhiều thân hình khác nhau. Đặc biệt hơn, màu sắc của chiếc áo phông nữ cổ tròn này cũng rất nhã nhặn, trung tính, trơn màu. Sự tối giản từ thiết kế, đường may đến bảng màu giúp các chị em không cần đắn đo quá nhiều khi lựa chọn. Chất liệu cotton 95% được xử lý nghiêm ngặt, quy trình và công nghệ hiện đại nên mang tới cho chiếc áo sự thoải mái, mềm mại, thoáng mát ngay khi chạm vào. Cùng với đó, áo thun nữ cotton cổ tròn Yody có khả năng thâm shuts mồ hôi rất tốt nên người mặc không bị cảm giác bí bách, dính dính trên da khi đổ mồ hôi vào mùa hè. Bên cạnh đó, sản phẩm cũng chưa 5% spandex - loại sợi giúp co giãn, đàn hồi hiệu quả thích hợp mặc tới nhiều môi trường, ngay cả khi vận động",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-y-nguyen-ban-18--ver31-0020624/5ccafdeb-5e9c-1500-8c37-0018b78256db.jpg?w=540&h=756",
-      "categorySlug": "ao-thun",
-      "productSlug": "ao-thun-co-tron-y-nguyen-ban-v31-0020624"
-    },
-    {
-      "id": 9,
-      "Title": "Áo Thun Cổ Tròn Linh Vật Animals Ver1",
-      "Price": "255,000",
-      "Colors": [
-        "Xám"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "Sự hiện diện của những chiếc áo thun basic cổ tròn trong tủ đồ của bạn chính là chìa khóa giúp cho bạn có thêm nhiều outfit thú vị mà lại không cần đến quá nhiều món đồ. Áo thun nữ cotton cổ tròn basic chính là vũ khí tiện dụng cho các chị em trong trang phục hàng ngày!<br><br><br>Thiết kế đơn giản, form dáng tiện lợi của áo thun PPN4502. Tại sao chỉ với 1 chiếc áo thun nữ basic mà bạn có thể phối với 10 bộ độ khác nhau? Câu trả lời nằm ở chính sự đơn giản của chúng. Càng đơn giản, bạn lại càng dễ mix & match với những món đồ khác nhau.Áo thun nữ PPM4502 có thiết kế cổ tròn đơn giản, nhẹ nhàng tôn da. Tay cáo, form áo cũng không hề cầu kỳ, rất dễ mặc với nhiều thân hình khác nhau. Đặc biệt hơn, màu sắc của chiếc áo phông nữ cổ tròn này cũng rất nhã nhặn, trung tính, trơn màu. Sự tối giản từ thiết kế, đường may đến bảng màu giúp các chị em không cần đắn đo quá nhiều khi lựa chọn. Chất liệu cotton 95% được xử lý nghiêm ngặt, quy trình và công nghệ hiện đại nên mang tới cho chiếc áo sự thoải mái, mềm mại, thoáng mát ngay khi chạm vào. Cùng với đó, áo thun nữ cotton cổ tròn Yody có khả năng thâm shuts mồ hôi rất tốt nên người mặc không bị cảm giác bí bách, dính dính trên da khi đổ mồ hôi vào mùa hè. Bên cạnh đó, sản phẩm cũng chưa 5% spandex - loại sợi giúp co giãn, đàn hồi hiệu quả thích hợp mặc tới nhiều môi trường, ngay cả khi vận động <br><br><br> Sự hiện diện của những chiếc áo thun basic cổ tròn trong tủ đồ của bạn chính là chìa khóa giúp cho bạn có thêm nhiều outfit thú vị mà lại không cần đến quá nhiều món đồ. Áo thun nữ cotton cổ tròn basic chính là vũ khí tiện dụng cho các chị em trong trang phục hàng ngày!<br><br><br>Thiết kế đơn giản, form dáng tiện lợi của áo thun PPN4502. Tại sao chỉ với 1 chiếc áo thun nữ basic mà bạn có thể phối với 10 bộ độ khác nhau? Câu trả lời nằm ở chính sự đơn giản của chúng. Càng đơn giản, bạn lại càng dễ mix & match với những món đồ khác nhau.Áo thun nữ PPM4502 có thiết kế cổ tròn đơn giản, nhẹ nhàng tôn da. Tay cáo, form áo cũng không hề cầu kỳ, rất dễ mặc với nhiều thân hình khác nhau. Đặc biệt hơn, màu sắc của chiếc áo phông nữ cổ tròn này cũng rất nhã nhặn, trung tính, trơn màu. Sự tối giản từ thiết kế, đường may đến bảng màu giúp các chị em không cần đắn đo quá nhiều khi lựa chọn. Chất liệu cotton 95% được xử lý nghiêm ngặt, quy trình và công nghệ hiện đại nên mang tới cho chiếc áo sự thoải mái, mềm mại, thoáng mát ngay khi chạm vào. Cùng với đó, áo thun nữ cotton cổ tròn Yody có khả năng thâm shuts mồ hôi rất tốt nên người mặc không bị cảm giác bí bách, dính dính trên da khi đổ mồ hôi vào mùa hè. Bên cạnh đó, sản phẩm cũng chưa 5% spandex - loại sợi giúp co giãn, đàn hồi hiệu quả thích hợp mặc tới nhiều môi trường, ngay cả khi vận động",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-linh-vat-animals-ver1-0020604/760cd3b5-4270-0602-dc1f-0018b76ee1bd.jpg?w=540&h=756",
-      "categorySlug": "ao-thun",
-      "productSlug": "ao-thun-co-tron-linh-vat-animals-ver1-0020604"
-    },
-    {
-      "id": 10,
-      "Title": "Áo Thun Cổ Tròn Linh Vật Animals Ver2",
-      "Price": "255,000",
-      "Colors": [
-        "Trắng"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "Sự hiện diện của những chiếc áo thun basic cổ tròn trong tủ đồ của bạn chính là chìa khóa giúp cho bạn có thêm nhiều outfit thú vị mà lại không cần đến quá nhiều món đồ. Áo thun nữ cotton cổ tròn basic chính là vũ khí tiện dụng cho các chị em trong trang phục hàng ngày!<br><br><br>Thiết kế đơn giản, form dáng tiện lợi của áo thun PPN4502. Tại sao chỉ với 1 chiếc áo thun nữ basic mà bạn có thể phối với 10 bộ độ khác nhau? Câu trả lời nằm ở chính sự đơn giản của chúng. Càng đơn giản, bạn lại càng dễ mix & match với những món đồ khác nhau.Áo thun nữ PPM4502 có thiết kế cổ tròn đơn giản, nhẹ nhàng tôn da. Tay cáo, form áo cũng không hề cầu kỳ, rất dễ mặc với nhiều thân hình khác nhau. Đặc biệt hơn, màu sắc của chiếc áo phông nữ cổ tròn này cũng rất nhã nhặn, trung tính, trơn màu. Sự tối giản từ thiết kế, đường may đến bảng màu giúp các chị em không cần đắn đo quá nhiều khi lựa chọn. Chất liệu cotton 95% được xử lý nghiêm ngặt, quy trình và công nghệ hiện đại nên mang tới cho chiếc áo sự thoải mái, mềm mại, thoáng mát ngay khi chạm vào. Cùng với đó, áo thun nữ cotton cổ tròn Yody có khả năng thâm shuts mồ hôi rất tốt nên người mặc không bị cảm giác bí bách, dính dính trên da khi đổ mồ hôi vào mùa hè. Bên cạnh đó, sản phẩm cũng chưa 5% spandex - loại sợi giúp co giãn, đàn hồi hiệu quả thích hợp mặc tới nhiều môi trường, ngay cả khi vận động <br><br><br> Sự hiện diện của những chiếc áo thun basic cổ tròn trong tủ đồ của bạn chính là chìa khóa giúp cho bạn có thêm nhiều outfit thú vị mà lại không cần đến quá nhiều món đồ. Áo thun nữ cotton cổ tròn basic chính là vũ khí tiện dụng cho các chị em trong trang phục hàng ngày!<br><br><br>Thiết kế đơn giản, form dáng tiện lợi của áo thun PPN4502. Tại sao chỉ với 1 chiếc áo thun nữ basic mà bạn có thể phối với 10 bộ độ khác nhau? Câu trả lời nằm ở chính sự đơn giản của chúng. Càng đơn giản, bạn lại càng dễ mix & match với những món đồ khác nhau.Áo thun nữ PPM4502 có thiết kế cổ tròn đơn giản, nhẹ nhàng tôn da. Tay cáo, form áo cũng không hề cầu kỳ, rất dễ mặc với nhiều thân hình khác nhau. Đặc biệt hơn, màu sắc của chiếc áo phông nữ cổ tròn này cũng rất nhã nhặn, trung tính, trơn màu. Sự tối giản từ thiết kế, đường may đến bảng màu giúp các chị em không cần đắn đo quá nhiều khi lựa chọn. Chất liệu cotton 95% được xử lý nghiêm ngặt, quy trình và công nghệ hiện đại nên mang tới cho chiếc áo sự thoải mái, mềm mại, thoáng mát ngay khi chạm vào. Cùng với đó, áo thun nữ cotton cổ tròn Yody có khả năng thâm shuts mồ hôi rất tốt nên người mặc không bị cảm giác bí bách, dính dính trên da khi đổ mồ hôi vào mùa hè. Bên cạnh đó, sản phẩm cũng chưa 5% spandex - loại sợi giúp co giãn, đàn hồi hiệu quả thích hợp mặc tới nhiều môi trường, ngay cả khi vận động",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-linh-vat-animals-ver2-0020605/64a6143f-0c90-1802-0895-0018b76f6a44.jpg?w=540&h=756",
-      "categorySlug": "ao-thun",
-      "productSlug": "ao-thun-co-tron-linh-vat-animals-ver2-0020605"
-    },
-    {
-      "id": 11,
-      "Title": "Áo Thun Cổ Tròn Linh Vật Animals Ver3",
-      "Price": "255,000",
-      "Colors": [
-        "Trắng"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "Sự hiện diện của những chiếc áo thun basic cổ tròn trong tủ đồ của bạn chính là chìa khóa giúp cho bạn có thêm nhiều outfit thú vị mà lại không cần đến quá nhiều món đồ. Áo thun nữ cotton cổ tròn basic chính là vũ khí tiện dụng cho các chị em trong trang phục hàng ngày!<br><br><br>Thiết kế đơn giản, form dáng tiện lợi của áo thun PPN4502. Tại sao chỉ với 1 chiếc áo thun nữ basic mà bạn có thể phối với 10 bộ độ khác nhau? Câu trả lời nằm ở chính sự đơn giản của chúng. Càng đơn giản, bạn lại càng dễ mix & match với những món đồ khác nhau.Áo thun nữ PPM4502 có thiết kế cổ tròn đơn giản, nhẹ nhàng tôn da. Tay cáo, form áo cũng không hề cầu kỳ, rất dễ mặc với nhiều thân hình khác nhau. Đặc biệt hơn, màu sắc của chiếc áo phông nữ cổ tròn này cũng rất nhã nhặn, trung tính, trơn màu. Sự tối giản từ thiết kế, đường may đến bảng màu giúp các chị em không cần đắn đo quá nhiều khi lựa chọn. Chất liệu cotton 95% được xử lý nghiêm ngặt, quy trình và công nghệ hiện đại nên mang tới cho chiếc áo sự thoải mái, mềm mại, thoáng mát ngay khi chạm vào. Cùng với đó, áo thun nữ cotton cổ tròn Yody có khả năng thâm shuts mồ hôi rất tốt nên người mặc không bị cảm giác bí bách, dính dính trên da khi đổ mồ hôi vào mùa hè. Bên cạnh đó, sản phẩm cũng chưa 5% spandex - loại sợi giúp co giãn, đàn hồi hiệu quả thích hợp mặc tới nhiều môi trường, ngay cả khi vận động <br><br><br> Sự hiện diện của những chiếc áo thun basic cổ tròn trong tủ đồ của bạn chính là chìa khóa giúp cho bạn có thêm nhiều outfit thú vị mà lại không cần đến quá nhiều món đồ. Áo thun nữ cotton cổ tròn basic chính là vũ khí tiện dụng cho các chị em trong trang phục hàng ngày!<br><br><br>Thiết kế đơn giản, form dáng tiện lợi của áo thun PPN4502. Tại sao chỉ với 1 chiếc áo thun nữ basic mà bạn có thể phối với 10 bộ độ khác nhau? Câu trả lời nằm ở chính sự đơn giản của chúng. Càng đơn giản, bạn lại càng dễ mix & match với những món đồ khác nhau.Áo thun nữ PPM4502 có thiết kế cổ tròn đơn giản, nhẹ nhàng tôn da. Tay cáo, form áo cũng không hề cầu kỳ, rất dễ mặc với nhiều thân hình khác nhau. Đặc biệt hơn, màu sắc của chiếc áo phông nữ cổ tròn này cũng rất nhã nhặn, trung tính, trơn màu. Sự tối giản từ thiết kế, đường may đến bảng màu giúp các chị em không cần đắn đo quá nhiều khi lựa chọn. Chất liệu cotton 95% được xử lý nghiêm ngặt, quy trình và công nghệ hiện đại nên mang tới cho chiếc áo sự thoải mái, mềm mại, thoáng mát ngay khi chạm vào. Cùng với đó, áo thun nữ cotton cổ tròn Yody có khả năng thâm shuts mồ hôi rất tốt nên người mặc không bị cảm giác bí bách, dính dính trên da khi đổ mồ hôi vào mùa hè. Bên cạnh đó, sản phẩm cũng chưa 5% spandex - loại sợi giúp co giãn, đàn hồi hiệu quả thích hợp mặc tới nhiều môi trường, ngay cả khi vận động",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-linh-vat-animals-ver3-0020606/9111c9da-b292-2a02-b52f-0018b771d740.jpg?w=540&h=756",
-      "categorySlug": "ao-thun",
-      "productSlug": "ao-thun-co-tron-linh-vat-animals-ver3-0020606"
-    },
-    {
-      "id": 12,
-      "Title": "Áo Khoác Hoodie Ngân Hà Space Ver5",
-      "Price": "425,000",
-      "Colors": [
-        "Trắng"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "Sự hiện diện của những chiếc áo thun basic cổ tròn trong tủ đồ của bạn chính là chìa khóa giúp cho bạn có thêm nhiều outfit thú vị mà lại không cần đến quá nhiều món đồ. Áo thun nữ cotton cổ tròn basic chính là vũ khí tiện dụng cho các chị em trong trang phục hàng ngày!<br><br><br>Thiết kế đơn giản, form dáng tiện lợi của áo thun PPN4502. Tại sao chỉ với 1 chiếc áo thun nữ basic mà bạn có thể phối với 10 bộ độ khác nhau? Câu trả lời nằm ở chính sự đơn giản của chúng. Càng đơn giản, bạn lại càng dễ mix & match với những món đồ khác nhau.Áo thun nữ PPM4502 có thiết kế cổ tròn đơn giản, nhẹ nhàng tôn da. Tay cáo, form áo cũng không hề cầu kỳ, rất dễ mặc với nhiều thân hình khác nhau. Đặc biệt hơn, màu sắc của chiếc áo phông nữ cổ tròn này cũng rất nhã nhặn, trung tính, trơn màu. Sự tối giản từ thiết kế, đường may đến bảng màu giúp các chị em không cần đắn đo quá nhiều khi lựa chọn. Chất liệu cotton 95% được xử lý nghiêm ngặt, quy trình và công nghệ hiện đại nên mang tới cho chiếc áo sự thoải mái, mềm mại, thoáng mát ngay khi chạm vào. Cùng với đó, áo thun nữ cotton cổ tròn Yody có khả năng thâm shuts mồ hôi rất tốt nên người mặc không bị cảm giác bí bách, dính dính trên da khi đổ mồ hôi vào mùa hè. Bên cạnh đó, sản phẩm cũng chưa 5% spandex - loại sợi giúp co giãn, đàn hồi hiệu quả thích hợp mặc tới nhiều môi trường, ngay cả khi vận động <br><br><br> Sự hiện diện của những chiếc áo thun basic cổ tròn trong tủ đồ của bạn chính là chìa khóa giúp cho bạn có thêm nhiều outfit thú vị mà lại không cần đến quá nhiều món đồ. Áo thun nữ cotton cổ tròn basic chính là vũ khí tiện dụng cho các chị em trong trang phục hàng ngày!<br><br><br>Thiết kế đơn giản, form dáng tiện lợi của áo thun PPN4502. Tại sao chỉ với 1 chiếc áo thun nữ basic mà bạn có thể phối với 10 bộ độ khác nhau? Câu trả lời nằm ở chính sự đơn giản của chúng. Càng đơn giản, bạn lại càng dễ mix & match với những món đồ khác nhau.Áo thun nữ PPM4502 có thiết kế cổ tròn đơn giản, nhẹ nhàng tôn da. Tay cáo, form áo cũng không hề cầu kỳ, rất dễ mặc với nhiều thân hình khác nhau. Đặc biệt hơn, màu sắc của chiếc áo phông nữ cổ tròn này cũng rất nhã nhặn, trung tính, trơn màu. Sự tối giản từ thiết kế, đường may đến bảng màu giúp các chị em không cần đắn đo quá nhiều khi lựa chọn. Chất liệu cotton 95% được xử lý nghiêm ngặt, quy trình và công nghệ hiện đại nên mang tới cho chiếc áo sự thoải mái, mềm mại, thoáng mát ngay khi chạm vào. Cùng với đó, áo thun nữ cotton cổ tròn Yody có khả năng thâm shuts mồ hôi rất tốt nên người mặc không bị cảm giác bí bách, dính dính trên da khi đổ mồ hôi vào mùa hè. Bên cạnh đó, sản phẩm cũng chưa 5% spandex - loại sợi giúp co giãn, đàn hồi hiệu quả thích hợp mặc tới nhiều môi trường, ngay cả khi vận động",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/ao-khoac-hoodie-ngan-ha-space-ver5-0020570/17e12901-31e0-0100-9459-0018d2e7ba77.jpg?w=540&h=756",
-      "categorySlug": "ao-hoodie",
-      "productSlug": "ao-thun-co-tron-linh-vat-animals-ver3-0020606ao-khoac-hoodie-ngan-ha-space-ver5-0020570"
-    },
-    {
-      "id": 13,
-      "Title": "Áo Khoác Varsity Linh Vật Bbuff Ver6",
-      "Price": "695,000",
-      "Colors": [
-        "XaNH Đậu"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "Áo Khoác Varsity Linh Vật Bbuff Ver6 - Chất liệu: French Terry + phối Simily tay áo",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/ao-khoac-varsity-linh-vat-bbuff-ver6-0020561/1c120e9f-e61d-1800-eaf9-0018d88903a4.jpg?w=540&h=756",
-      "categorySlug": "ao-hoodie",
-      "productSlug": "ao-thun-co-tron-linh-vat-bbuff-ver6-0020561ao-khoac-varsity-linh-vat-bbuff-ver6-0020561"
-    },
-    {
-      "id": 14,
-      "Title": "Áo Khoác Varsity Linh Vật Bbuff Ver6",
-      "Price": "695,000",
-      "Colors": [
-        "Nâu"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "Áo Khoác Varsity Linh Vật Bbuff Ver6 - Chất liệu: French Terry + phối Simily tay áo",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/ao-khoac-varsity-linh-vat-bbuff-ver6-0020562/85255a58-c7c5-0100-f49b-0018d8865c1b.jpg?w=540&h=756",
-      "categorySlug": "ao-hoodie",
-      "productSlug": "ao-khoac-varsity-linh-vat-bbuff-ver6-0020562"
-    },
-    {
-      "id": 15,
-      "Title": "SHT Sơ Mi Cổ Lãnh Tụ Đặc Biệt F02",
-      "Price": "285,000",
-      "Colors": [
-        "Đen"
-      ],
-      "Sizes": [
-        "L"
-      ],
-      "Description": "",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/so-mi-nam-y2010-td-f02-0018744/8cc00d00-d11b-0f00-4d62-001651b202e3.jpg?w=540&h=756",
-      "categorySlug": "ao-somi",
-      "productSlug": "so-mi-nam-y2010-td-f02-0018744"
-    },
-    {
-      "id": 16,
-      "Title": "Sơ Mi Tay Dài Đơn Giản B2X06",
-      "Price": "142,000",
-      "Colors": [
-        "Trắng"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/so-mi-nam-no-style-td-x06-0017639/0c0d8f60-8d1b-2e00-93d8-00161df921e2.jpg?w=540&h=756",
-      "categorySlug": "ao-somi",
-      "productSlug": "so-mi-nam-no-style-td-x06-0017639"
-    },
-    {
-      "id": 17,
-      "Title": "Sơ Mi Tay Dài Đơn Giản B2X09",
-      "Price": "142,000",
-      "Colors": [
-        "Trắng"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/so-mi-nam-no-style-td-x09-0017642/6da0792a-f633-4800-5446-00161df97fb3.jpg?w=540&h=756",
-      "categorySlug": "ao-somi",
-      "productSlug": "so-mi-nam-no-style-td-x09-0017642"
-    },
-    {
-      "id": 18,
-      "Title": "Sơ Mi Tay Dài Đặc Biệt H04",
-      "Price": "255,000",
-      "Colors": [
-        "Xanh Dương"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/so-mi-nam-y2010-td-h04-0019504/cb117a3b-0463-0d00-98ca-0016e49969f0.jpg?w=540&h=756",
-      "categorySlug": "ao-somi",
-      "productSlug": "so-mi-nam-y2010-td-h04-0019504"
-    },
-    {
-      "id": 19,
-      "Title": "Quần Dài Jean Slimfit Đơn Giản M2",
-      "Price": "297,000",
-      "Colors": [
-        "Xanh Đậm"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "Chất liệu: Jean Cotton Thành phần: 99% cotton 1% spandex - Độ bền cao - Mang đến sự thoải mái ở phần hông và  đùi nhưng vẫn rất gọn gàng",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/quan-jean-slimfit-tk-m2-0019883/f95a0a8b-fc11-1600-043e-001763e9711f.jpg?w=540&h=756",
-      "categorySlug": "quan-jean",
-      "productSlug": "quan-jean-slimfit-tk-m2-0019883"
-    },
-    {
-      "id": 20,
-      "Title": "Quần Dài Jean Slimfit Đơn Giản M4",
-      "Price": "425,000",
-      "Colors": [
-        "Xanh Đậm"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "Chất liệu: Jean Cotton Chất liệu: Jean Cotton Thành phần: 78% cotton 21% recycle poly 1% spandex Tính Năng Cân Bằng Nhiệt Độ",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/quan-jean-slimfit-on-gian-m4-0020207/9ad8db81-9aca-0700-f707-00187ef7eeb9.jpg?w=540&h=756",
-      "categorySlug": "quan-jean",
-      "productSlug": "quan-jean-slimfit-on-gian-m4-0020207-xanh-dam"
-    },
-    {
-      "id": 21,
-      "Title": "Quần Dài Jean Slimfit Đơn Giản M4",
-      "Price": "425,000",
-      "Colors": [
-        "Xanh Trắng"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "Chất liệu: Jean Cotton Chất liệu: Jean Cotton Thành phần: 78% cotton 21% recycle poly 1% spandex Tính Năng Cân Bằng Nhiệt Độ",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/quan-jean-slimfit-on-gian-m4-0020207/8d456d63-189a-0900-2c2a-00187ef8051f.jpg?w=540&h=756",
-      "categorySlug": "quan-jean",
-      "productSlug": "quan-jean-slimfit-on-gian-m4-0020207-xanh-trang"
-    },
-    {
-      "id": 22,
-      "Title": " Quần Dài Jean Skinny Đơn Giản A03 ",
-      "Price": "425,000",
-      "Colors": [
-        "Xanh Dương"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "Chất liệu: Jean Cotton Chất liệu: Jean Cotton Thành phần: 78% cotton 21% recycle poly 1% spandex Tính Năng Cân Bằng Nhiệt Độ",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/quan-jean-skinny-y2010-a03-0019733/212caf36-a475-0300-61d6-001883b060c4.jpg?w=540&h=756",
-      "categorySlug": "quan-jean",
-      "productSlug": "quan-jean-skinny-y2010-a03-0019733"
-    },
-    {
-      "id": 23,
-      "Title": " Quần Dài Jean Skinny Đơn Giản A03 ",
-      "Price": "425,000",
-      "Colors": [
-        "Xanh Xám"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "Chất liệu: Jean Cotton Chất liệu: Jean Cotton Thành phần: 78% cotton 21% recycle poly 1% spandex Tính Năng Cân Bằng Nhiệt Độ",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/quan-jean-skinny-y2010-a03-0019733/dc71f989-2f16-0400-9160-001883b08687.jpg?w=540&h=756",
-      "categorySlug": "quan-jean",
-      "productSlug": "quan-jean-skinny-y2010-a03-0019733"
-    },
-    {
-      "id": 24,
-      "Title": " Quần Dài Jean Skinny Đơn Giản A03 ",
-      "Price": "425,000",
-      "Colors": [
-        "Đen"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "Description": "Chất liệu: Jean Cotton Chất liệu: Jean Cotton Thành phần: 78% cotton 21% recycle poly 1% spandex Tính Năng Cân Bằng Nhiệt Độ",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/quan-jean-skinny-y2010-a03-0019733/d02d59c7-2774-0100-2754-001883b02434.jpg?w=540&h=756",
-      "categorySlug": "quan-jean",
-      "productSlug": "quan-jean-skinny-y2010-a03-0019733"
-    },
-    {
-      "Title": "Áo Thun Cổ Tròn Linh Vật Rồng Ver5",
-      "Colors": [
-        "Xám Trắng"
-      ],
-      "Sizes": [
-        "S",
-        "M",
-        "L"
-      ],
-      "Price": "132,000",
-      "Description": "Mô tả sản phẩm\nÁo Thun Cổ Tròn Linh Vật Rồng Ver5\nChất liệu: TICI 4C\nThành phần: 61% Polyester 33% Cotton 6% Spandex\n+ Họa tiết in dẻo ",
-      "ImgUrl": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-linh-vat-rong-ver5-0020716/cf6cd478-75bc-2c00-8e04-0018e3898a02.jpg?w=540&h=756",
-      "categorySlug": "ao-thun",
-      "productSlug": "Áo-Thun-Cổ-Tròn-Linh-Vật-Rồng-Ver5",
-      "id": 25
-    }
-  ],
-  "orders": [
-    {
-      "name": "Nguyễn Văn A",
-      "email": "nguyenvana@email.com",
-      "address": "166 pcd",
-      "City": "TP HCM",
-      "state": "Quận 2",
-      "cart": [
+      "id": "f8312f6a-1560-463d-98fb-f84c12033349",
+      "file_name": "test_888376.txt",
+      "count_version": 2,
+      "owner": "user1@blockapps.net",
+      "date_updated": "2022-01-02 02:47:53",
+      "last_activity" : "2022-01-09 12:47:53",
+      "list_version": [
         {
-          "id": 20,
-          "Title": "Quần Dài Jean Slimfit Đơn Giản M4",
-          "Price": "425000",
-          "Colors": [
-            "Xanh Đậm"
-          ],
-          "Sizes": [
-            "S",
-            "M",
-            "L",
-            "XL"
-          ],
-          "Description": "Chất liệu: Jean Cotton Chất liệu: Jean Cotton Thành phần: 78% cotton 21% recycle poly 1% spandex Tính Năng Cân Bằng Nhiệt Độ",
-          "ImgUrl": "https://cdn2.yame.vn/pimg/quan-jean-slimfit-on-gian-m4-0020207/9ad8db81-9aca-0700-f707-00187ef7eeb9.jpg?w=540&h=756",
-          "categorySlug": "quan-jean",
-          "productSlug": "quan-jean-slimfit-on-gian-m4-0020207-xanh-dam",
-          "quantity": 1,
-          "Size": "S",
-          "Color": "Xanh Đậm"
+          "id": "754a7fca-2e5c-46ba-bac0-199c889be07d",
+          "version": 1,
+          "upload_by": "user1@blockapps.net",
+          "date_upload": "2022-01-09 12:47:53",
+          "img_QR_code": "https://picsum.photos/98",
+          "QR_code": "e862dd7af4f62fe6d31a196fe6786fasdasd"
         },
         {
+          "id": "4d422f7b-1baa-4560-bfdf-a4796e6ba9cd",
+          "version": 2,
+          "upload_by": "user12@blockapps.net",
+          "date_upload": "2022-01-09 11:47:53",
+          "img_QR_code": "https://picsum.photos/98",
+          "QR_code": "esda2dd7af4f62feasdds26fe6786fasdasd"
+        }
+      ],
+      "description": "Maecenas dignissim mi efficitur leo laoreet rutrum. Pellentesque consequat sed mauris non placerat. Sed id egestas justo. Morbi lacinia ex vitae dui vestibulum varius."
+    },
+
+    {
+      "id": "c1bcca6c-b3a3-4688-b7bf-5179bc5d3500",
+      "file_name": "test_88sdd6.txt",
+      "count_version": 2,
+      "owner": "user1@blockapps.net",
+      "date_updated": "2022-01-02 02:47:53",
+      "last_activity" : "2022-01-09 12:47:53",
+      "list_version": [
+        {
+          "id": "0598f901-811b-4328-afcc-10b17e103cb6",
+          "version": 1,
+          "upload_by": "user1@blockapps.net",
+          "date_upload": "2022-01-09 12:47:53",
+          "img_QR_code": "https://picsum.photos/98",
+          "QR_code": "e862dd7af4f62fe6d31a196fe6786fasdasd"
+        },
+        {
+          "id": "adcb49e9-fe0e-49a2-9616-8b0b02187736",
+          "version": 2,
+          "upload_by": "user12@blockapps.net",
+          "date_upload": "2022-01-09 11:47:53",
+          "img_QR_code": "https://picsum.photos/98",
+          "QR_code": "esda2dd7af4f62feasdds26fe6786fasdasd"
+        }
+      ],
+      "members": [
+        {
           "id": 1,
-          "Title": "Áo Thun Cổ Tròn Tối Giản Ver8 ujpdate12",
-          "Price": "155000",
-          "Colors": [
-            "Đen"
-          ],
-          "Sizes": [
-            "S",
-            "M",
-            "L",
-            "XL"
-          ],
-          "Description": "mồ hôi vào mùa hè. Bên cạnh đó, sản phẩm cũng chưa 5% spandex - loại sợi giúp co giãn, đàn hồi hiệu quả thích hợp mặc tới nhiều môi trường, ngay cả khi vận động <br><br><br> Sự hiện diện của những chiếc áo thun basic cổ tròn trong tủ đồ của bạn chính là chìa khóa giúp cho bạn có thêm nhiều outfit thú vị mà lại không cần đến quá nhiều món đồ. Áo thun nữ cotton cổ tròn basic chính là vũ khí tiện dụng cho các chị em trong trang phục hàng ngày!<br><br><br>Thiết kế đơn giản, form dáng tiện lợi của áo thun PPN4502. Tại sao chỉ với 1 chiếc áo thun nữ basic mà bạn có thể phối với 10 bộ độ khác nhau? Câu trả lời nằm ở chính sự đơn giản của chúng. Càng đơn giản, bạn lại càng dễ mix & match với những món đồ khác nhau.Áo thun nữ PPM4502 có thiế",
-          "ImgUrl": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-on-gian-y-nguyen-ban-ver8-0020332/47916c25-4afc-d400-1b2e-00189666d012.jpg?w=540&h=756",
-          "categorySlug": "ao-thun",
-          "productSlug": "ao-thun-co-tron-on-gian-y-nguyen-ban-ver8-0020332",
-          "quantity": 1,
-          "Size": "S",
-          "Color": "Đen"
-        }
-      ],
-      "total": "425000",
-      "id": 1
-    },
-    {
-      "name": "Nguyễn Văn A",
-      "email": "nguyenvanb@email.com",
-      "address": "166 pcd",
-      "City": "TP HCM",
-      "state": "Quận 6",
-      "cart": [
-        {
-          "id": 20,
-          "Title": "Quần Dài Jean Slimfit Đơn Giản M4",
-          "Price": "425000",
-          "Colors": [
-            "Xanh Đậm"
-          ],
-          "Sizes": [
-            "S",
-            "M",
-            "L",
-            "XL"
-          ],
-          "Description": "Chất liệu: Jean Cotton Chất liệu: Jean Cotton Thành phần: 78% cotton 21% recycle poly 1% spandex Tính Năng Cân Bằng Nhiệt Độ",
-          "ImgUrl": "https://cdn2.yame.vn/pimg/quan-jean-slimfit-on-gian-m4-0020207/9ad8db81-9aca-0700-f707-00187ef7eeb9.jpg?w=540&h=756",
-          "categorySlug": "quan-jean",
-          "productSlug": "quan-jean-slimfit-on-gian-m4-0020207-xanh-dam",
-          "quantity": 1,
-          "Size": "S",
-          "Color": "Xanh Đậm"
-        }
-      ],
-      "total": "425000",
-      "id": 2
-    },
-    {
-      "name": "Nguyễn Văn A",
-      "email": "nguyenvanb@email.com",
-      "address": "123123",
-      "City": "TP HCM",
-      "state": "Quận 2",
-      "cart": [
-        {
-          "id": 20,
-          "Title": "Quần Dài Jean Slimfit Đơn Giản M4",
-          "Price": "425000",
-          "Colors": [
-            "Xanh Đậm"
-          ],
-          "Sizes": [
-            "S",
-            "M",
-            "L",
-            "XL"
-          ],
-          "Description": "Chất liệu: Jean Cotton Chất liệu: Jean Cotton Thành phần: 78% cotton 21% recycle poly 1% spandex Tính Năng Cân Bằng Nhiệt Độ",
-          "ImgUrl": "https://cdn2.yame.vn/pimg/quan-jean-slimfit-on-gian-m4-0020207/9ad8db81-9aca-0700-f707-00187ef7eeb9.jpg?w=540&h=756",
-          "categorySlug": "quan-jean",
-          "productSlug": "quan-jean-slimfit-on-gian-m4-0020207-xanh-dam",
-          "quantity": 1,
-          "Size": "S",
-          "Color": "Xanh Đậm"
+          "email": "user1@blockapps.net",
+          "date_add": "2022-01-09 12:47:53",
+          "permission": "owner"
         },
         {
           "id": 2,
-          "Title": "Áo Thun 3 Lỗ Thể Thao Y Nguyên Bản Ver37",
-          "Price": "99000",
-          "Colors": [
-            "Đen"
-          ],
-          "Sizes": [
-            "S",
-            "M",
-            "L",
-            "XL"
-          ],
-          "Description": "Áo Thun 3 Lỗ Thể Thao Y Nguyên Bản Ver37 Chất liệu: Vải cá sấu PolyThành phần: 100% polyester + Họa tiết may đắp",
-          "ImgUrl": "https://cdn2.yame.vn/pimg/ao-thun-3-lo-the-thao-y-nguyen-ban-ver37-0020638/d23bfc84-246d-5800-5dbe-0018cd6bc6dc.jpg?w=540&h=756",
-          "categorySlug": "ao-thun",
-          "productSlug": "ao-thun-3-lo-the-thao-y-nguyen-ban-ver37",
-          "quantity": 3,
-          "Size": "S",
-          "Color": "Đen"
-        },
-        {
-          "id": 3,
-          "Title": "Áo Thun Cổ Tròn Thiên Nhiên Kì Vĩ Cyberpunk M3",
-          "Price": "385000",
-          "Colors": [
-            "Trắng Xanh"
-          ],
-          "Sizes": [
-            "S",
-            "M",
-            "L",
-            "XL"
-          ],
-          "Description": "Áo Thun 3 Lỗ Thể Thao Y Nguyên Bản Ver37 </br> Chất liệu: Vải cá sấu Poly </br>Thành phần: 100% polyester + Họa tiết may đắp",
-          "ImgUrl": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-12vahdt-ai-hanh-kha-ver3-0020536/0a7bd5bb-4bdc-3901-e25a-0018ac685f34.jpg?w=540&h=756",
-          "categorySlug": "ao-thun",
-          "productSlug": "ao-thun-co-tron-thien-nhien-ki-vi-cyberpunk-m3",
-          "quantity": 1,
-          "Size": "S",
-          "Color": "Trắng Xanh"
+          "email": "user12@blockapps.net",
+          "date_add": "2022-01-09 12:47:53",
+          "permission": "member"
         }
       ],
-      "total": 1107000,
-      "id": 3
+      "description": "Maecenas dignissim mi efficitur leo laoreet rutrum. Sed id egestas justo. Morbi lacinia ex vitae dui vestibulum varius."
+    }
+  ],
+  "list_member": [
+    {
+      "id": 1,
+      "email": "user1@blockapps.net"
+    },
+    {
+      "id": 2,
+      "email": "user2@blockapps.net"
+    },
+    {
+      "id": 3,
+      "email": "user3@blockapps.net"
     }
   ]
 }
